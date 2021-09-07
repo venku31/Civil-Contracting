@@ -106,3 +106,7 @@ notification_config = "civil_contracting.notifications.get_notification_config"
 # 	"frappe.core.doctype.event.event.get_events": "civil_contracting.event.get_events"
 # }
 
+fixtures =[
+    "Worker",
+]
+

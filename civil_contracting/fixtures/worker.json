@@ -1,0 +1,19 @@
+[
+ {
+  "contact_no": null,
+  "docstatus": 0,
+  "doctype": "Worker",
+  "employee": "HR-EMP-00004",
+  "employee_name": "Birhanu Tsegaye",
+  "hour_rate": 50.0,
+  "modified": "2021-08-29 11:21:22.025857",
+  "name": "WRK/00001",
+  "outstanding_wages": 500.0,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "project": "PROJ-0001",
+  "supplier": null,
+  "workstation": "Aarti Plant"
+ }
+]
